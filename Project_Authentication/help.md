@@ -8,3 +8,5 @@
 - Install Simple JWT [pip install djangorestframework-simplejwt]
 - Config in setting.py file
 - add requrements.txt file
+- Install django-cors-headers take reference from its official website
+- Config in setting.py file
