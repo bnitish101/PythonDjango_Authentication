@@ -1,0 +1,8 @@
+# add .gitignore file to .gitignore
+.gitignore
+
+# add .env file to .gitignore
+.env
+
+# add .venv file to .gitignore
+.venv
