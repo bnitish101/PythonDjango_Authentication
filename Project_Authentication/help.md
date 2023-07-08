@@ -1,0 +1,10 @@
+- https://www.youtube.com/watch?v=lo7lBD9ynVc&t=618s
+- create virtual environment
+- activate the environment
+- Install django
+- create project [django-admin startproject Project_Authentication]
+- create app [django-admin startapp account]
+- Install DRF "Django Rest Framework"
+- Install Simple JWT [pip install djangorestframework-simplejwt]
+- Config in setting.py file
+- add requrements.txt file
